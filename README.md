@@ -1,4 +1,4 @@
-### Hi, I'm Prabhudutt Mishra
+### Hi, I'm prabhudutt mishra 
 
 I build **local-first systems** — software that runs on your own hardware and
 keeps working when the internet does not.
